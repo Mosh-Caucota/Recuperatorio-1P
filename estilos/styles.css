@@ -1,12 +1,56 @@
-/* estilos/styles.css */
-body {
-  font-family: "Glegoo";
-  margin: 0;
-  padding: 0 ;
-  box-sizing: border-box;                           /* Busca en la clase 4 para actualizar y continuar */ 
-  x
+*{
+margin:0;
+padding: 0;
+box-sizing: border-box;
+
 }
 
-body { 
-  
+html, body{
+  height: 100%;
+  margin:0;
 }
+
+
+
+h1 {
+    font-family: "Glegoo";/* Tipografía obligatoria */
+    font-size: 4rem;
+    text-align: center;
+    color: #000000;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+
+
+}
+
+
+h2{ 
+    font-family: "Glegoo";/* Tipografía obligatoria */
+    font-size: 1.8rem;
+    margin-top: 35px;
+    margin-bottom: 15px;
+    color: #222222;
+    text-transform: uppercase;
+
+}
+
+h3{
+
+   font-family: "Glegoo";/* Tipografía obligatoria */
+   font-size: 1.5rem;
+   margin-top: 35px;
+   color: #000000;
+
+
+
+}
+p {
+    font-size: 1.1rem; 
+    margin-bottom: 15px;
+    text-align: justify;
+
+
+}
+
+
+
