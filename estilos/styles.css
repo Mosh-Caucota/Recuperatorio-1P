@@ -2,7 +2,7 @@
 * {
     margin: 0;
     padding: 0;
-    box-sizing: border-box; /* Clase 04: Box Model */
+    box-sizing: border-box;                                /* Clase 04: Box Model */
 }
 body {
     font-size: 16px; 
@@ -44,7 +44,7 @@ nav {
 nav ul {
     list-style: none;
     display: flex;
-    justify-content: center;
+    justify-content: center;                                /* confirmar* navegacion */ 
 }
 
 nav ul li a {
